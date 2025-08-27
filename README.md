@@ -6,58 +6,45 @@ This is my collection of Python programs, starting from **beginner basics** to *
 ---
 
 ## 🔹 Beginner Programs
-- [ ] Hello World & Basic Input/Output  
-- [ ] Calculator (Add, Subtract, Multiply, Divide)  
-- [ ] Factorial of a Number  
-- [ ] Fibonacci Sequence Generator  
-- [ ] Prime Number Checker  
-- [ ] Palindrome Checker (string & number)  
-- [ ] Armstrong Number Checker  
-- [ ] Reverse a String / Number  
-- [ ] Sum of Digits  
-- [ ] Swap Two Numbers without Temp Variable  
+
+**➡️ Contains simple Python programs to get started.**
+
+🔹Basics (Hello World, variables, input/output)
+🔹Loops & conditionals
+🔹Simple math & string problems
+🔹Small exercises to strengthen fundamentals  
 
 ---
 
 ## 🔹 Intermediate Programs
-- [ ] Guess the Number Game  
-- [ ] Rock-Paper-Scissors Game  
-- [ ] Tic-Tac-Toe (2 player, console)  
-- [ ] Hangman Game  
-- [ ] Simple To-Do List (using file handling)  
-- [ ] Password Generator  
-- [ ] Dice Rolling Simulator  
-- [ ] Banking System (deposit, withdraw, check balance)  
-- [ ] Student Marks Management System  
-- [ ] Library Management System  
+**➡️ Covers slightly complex programs and small projects.**
+
+🔹Games (Guess the Number, Rock-Paper-Scissors, Tic-Tac-Toe)
+🔹File handling (To-do app, Library system)
+🔹Simple simulators (Dice roller, Banking system)
+🔹Strengthens problem-solving & project building skills 
 
 ---
 
 ## 🔹 Data Structures & Algorithms
-- [ ] Bubble Sort / Quick Sort / Merge Sort  
-- [ ] Binary Search & Linear Search  
-- [ ] Stack Implementation (list / class)  
-- [ ] Queue Implementation  
-- [ ] Linked List (Singly, Doubly)  
-- [ ] Binary Tree (Traversals: Inorder, Preorder, Postorder)  
-- [ ] Graph Representation (Adjacency List / Matrix)  
-- [ ] Dijkstra’s Algorithm  
-- [ ] Heap Sort  
-- [ ] Hash Table Implementation  
+**➡️ Focused on Data Structures & Algorithms in Python.**
+
+🔹Sorting algorithms (Bubble, Merge, Quick)
+🔹Searching algorithms (Linear, Binary)
+🔹Stack, Queue, Linked List implementations
+🔹Trees, Graphs, Heaps, Hash Tables
+🔹Classic DSA problems useful for coding interviews  
 
 ---
 
 ## 🔹 Machine Learning & Data Programs
-- [ ] Read & Analyze CSV File (pandas)  
-- [ ] Data Cleaning Example (handling missing values)  
-- [ ] Data Visualization (matplotlib, seaborn)  
-- [ ] Linear Regression (from scratch + sklearn)  
-- [ ] Logistic Regression  
-- [ ] K-Nearest Neighbors (KNN)  
-- [ ] Decision Tree Classifier  
-- [ ] Random Forest Classifier  
-- [ ] K-Means Clustering  
-- [ ] Simple Neural Network (TensorFlow/Keras or from scratch)  
+**➡️ Programs related to Machine Learning & Data Handling.**
+
+🔹Data Cleaning & EDA (with pandas, numpy
+🔹Data Visualization (matplotlib, seaborn)
+🔹ML Algorithms (Linear/Logistic Regression, KNN, Decision Tree, Random Forest)
+🔹Clustering (K-Means)
+🔹Neural Networks (with TensorFlow/Keras) 
 
 ---
 
