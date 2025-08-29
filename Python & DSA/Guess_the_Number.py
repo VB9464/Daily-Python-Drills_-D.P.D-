@@ -6,7 +6,7 @@ def guess_the_number():
 
    # computer chooses the random number between 1 to 100
    number_to_guess = random.randint(1,100)
-   attempts = 0
+   attempts += 1
    while True :
        try:
            # Take input from user
@@ -25,4 +25,5 @@ def guess_the_number():
 
 
 guess_the_number()
+
 
