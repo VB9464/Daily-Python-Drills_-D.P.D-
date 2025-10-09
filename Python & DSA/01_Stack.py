@@ -1,20 +1,13 @@
-# A stack follows LIFO ( Last in First Out ) principle
-# Push ---> add item
-# Pop  ---> remove item
-# Peek ---> see top item
+class stack:
+  def __init__(self):
+    self.values = []
+  def push(self,x):
+    self.values = [x]+self.values
 
-# Stack implementation using Python list
-stack = [10,20,30] #empty stack
+  def pop(self):
+    return self.values.pop(0)
 
-# Push elements
-stack.append(50) # push 10
-stack.append(60)
-stack.append(70)
-print("Stack after pushes:",stack)
-
-#Pop element
-print("Popped element:", stack.pop()) # removes 30
-print("Stack after pop:", stack)
-
-# Peek element (top of stack)
-print("Top element:",stack[-1]) #last element
+s = stack()
+s.push(10)
+s.push(20)
+print(s.values)
